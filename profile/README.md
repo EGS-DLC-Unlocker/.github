@@ -7,7 +7,7 @@
 ## 🔗 Latest Release of EGSUnlocker
 
 - **💾 Version 0.45** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/EGS-DLC-Unlocker/.github/releases)
 
 
 ---
